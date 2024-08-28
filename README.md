@@ -8,3 +8,6 @@ Script to move Azure Git Repos from one project to another
 
 # Execute the script
 .\MoveGitRepos.ps1 -personalAccessToken "YOUR_PERSONAL_ACCESS_TOKEN"
+
+# Medium post describing the script available at
+https://link.medium.com/7EUuVHQ6qMb
